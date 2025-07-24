@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zia</h1>
 <h3 align="center">🚀 Passionate Android Developer |🤖 ML Enthusiast | Building smart, scalable, and user-friendly mobile apps | Passionate about creating meaningful solutions that truly help users.</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s"/>
 
 <p align="left">
 </p>
