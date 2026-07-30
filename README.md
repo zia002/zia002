@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a CSE undergraduate at CUET building production Android and Flutter apps, currently working as a Junior Android Developer at Nymph Solutions Ltd. Beyond industry work, I'm deeply interested in **Computer Vision and deep learning research** — particularly video understanding, multimodal AI, and video moment retrieval — with a goal of publishing and pursuing postgraduate studies abroad.
+I'm a CSE undergraduate at CUET building production Android and Flutter apps, currently working as a Junior Android Developer at Nymph Solutions Ltd. Beyond industry work, I'm deeply interested in **Computer Vision and deep learning research** — particularly video understanding, multimodal AI, Medical Image Analysis and video moment retrieval 
 
 ---
 
@@ -38,7 +38,6 @@ I'm actively working in **Computer Vision** with a focus on:
 - **Multimodal AI** — combining vision and language for video understanding tasks
 - **Deep Learning architectures** — cross-attention, pre-norm transformers, query-conditioned layers
 
-> Currently building a VMR pipeline achieving **Mean IoU 0.4680 · R@0.5: 0.4568** on Charades-STA as part of my BSc research at CUET.
 
 ---
 
@@ -105,8 +104,10 @@ I'm actively working in **Computer Vision** with a focus on:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Video Moment Retrieval** | Transformer + CLIP pipeline for natural language video grounding on Charades-STA. Mean IoU: 0.4680, R@0.5: 0.4568 | PyTorch, CLIP, Transformers |
-| **Query-Based Scene Extraction** | Frame-level scene extraction using Qwen2.5-VL-7B against Charades action labels | Qwen-VL, Python, Kaggle T4×2 |
+| **Video Moment Retrieval** | Transformer + CLIP pipeline for natural language video grounding on Charades-STA. | PyTorch, CLIP, Transformers |
+| **Query-Based Scene Extraction** | Frame-level scene extraction using Qwen2.5-VL-7B against Charades action labels. | Qwen2.5-VL-7B, Python, Kaggle T4×2 |
+| **Tea Leaf Disease Classification** | Deep learning-based tea leaf disease classification using leaf images for automated disease detection. | PyTorch, CNN/ViT, OpenCV, Python |
+| **Nail Disease Classification** | Deep learning-based nail disease classification from clinical nail images for computer-aided diagnosis. | PyTorch, CNN/ViT, OpenCV, Python |
 
 ---
 
@@ -127,7 +128,7 @@ I'm actively working in **Computer Vision** with a focus on:
     <td width="80"><img src="https://github.com/user-attachments/assets/955661c8-5e09-4a70-8cab-3a98555941e3" width="70"/></td>
     <td>
       <strong>Chittagong University of Engineering & Technology (CUET)</strong><br/>
-      BSc in Computer Science and Engineering · CGPA: <strong>3.67</strong> · Dec 2023 – Present<br/>
+      BSc in Computer Science and Engineering · Dec 2023 – Present<br/>
       <sub>Member — CUET Computer Club · CUET CP Community</sub>
     </td>
   </tr>
@@ -136,7 +137,7 @@ I'm actively working in **Computer Vision** with a focus on:
     <td width="80"><img <img width="201" height="251" alt="cuet" src="https://github.com/user-attachments/assets/e33f670b-6198-470e-b8c2-ddf6e8c9a4da" width="70"/></td>
     <td>
       <strong>Dhaka College</strong><br/>
-      Higher Secondary Certificate (HSC), Science · GPA: <strong>5.00</strong> · Jul 2019 – Apr 2021<br/>
+      Higher Secondary Certificate (HSC), Science · Jul 2019 – Apr 2021<br/>
       <sub>Former Member — Dhaka College English Club</sub>
     </td>
   </tr>
@@ -147,5 +148,5 @@ I'm actively working in **Computer Vision** with a focus on:
 
 
 <div align="center">
-<sub>Open to research collaborations and fully-funded postgraduate opportunities in Computer Vision / Multimodal AI.</sub>
+<sub>Open to research collaborations and postgraduate opportunities in Computer Vision / Multimodal AI.</sub>
 </div>
