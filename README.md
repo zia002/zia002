@@ -122,16 +122,30 @@ I'm actively working in **Computer Vision** with a focus on:
 
 ## Education
 
-**Chittagong University of Engineering & Technology (CUET)**
-BSc in Computer Science and Engineering · CGPA: **3.67** · Dec 2023 – Present
-Member — CUET Computer Club · CUET CP Community
-
-**Dhaka College**
-Higher Secondary Certificate (HSC), Science · GPA: **5.00** · Jul 2019 – Apr 2021
-Former Member — Dhaka College English Club
+<table>
+  <tr>
+    <td width="80"><img src="https://github.com/user-attachments/assets/e33f670b-6198-470e-b8c2-ddf6e8c9a4da" width="70"/></td>
+    <td>
+      <strong>Chittagong University of Engineering & Technology (CUET)</strong><br/>
+      BSc in Computer Science and Engineering · CGPA: <strong>3.67</strong> · Dec 2023 – Present<br/>
+      <sub>Member — CUET Computer Club · CUET CP Community</sub>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="80"><img <img width="201" height="251" alt="cuet" src="https://github.com/user-attachments/assets/955661c8-5e09-4a70-8cab-3a98555941e3" width="70"/></td>
+    <td>
+      <strong>Dhaka College</strong><br/>
+      Higher Secondary Certificate (HSC), Science · GPA: <strong>5.00</strong> · Jul 2019 – Apr 2021<br/>
+      <sub>Former Member — Dhaka College English Club</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
+
+
 <div align="center">
-<sub>Open to research collaborations, internships, and fully-funded postgraduate opportunities in Computer Vision / Multimodal AI.</sub>
+<sub>Open to research collaborations and fully-funded postgraduate opportunities in Computer Vision / Multimodal AI.</sub>
 </div>
