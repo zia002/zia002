@@ -124,7 +124,7 @@ I'm actively working in **Computer Vision** with a focus on:
 
 <table>
   <tr>
-    <td width="80"><img src="https://github.com/user-attachments/assets/e33f670b-6198-470e-b8c2-ddf6e8c9a4da" width="70"/></td>
+    <td width="80"><img src="https://github.com/user-attachments/assets/955661c8-5e09-4a70-8cab-3a98555941e3" width="70"/></td>
     <td>
       <strong>Chittagong University of Engineering & Technology (CUET)</strong><br/>
       BSc in Computer Science and Engineering · CGPA: <strong>3.67</strong> · Dec 2023 – Present<br/>
@@ -133,7 +133,7 @@ I'm actively working in **Computer Vision** with a focus on:
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
-    <td width="80"><img <img width="201" height="251" alt="cuet" src="https://github.com/user-attachments/assets/955661c8-5e09-4a70-8cab-3a98555941e3" width="70"/></td>
+    <td width="80"><img <img width="201" height="251" alt="cuet" src="https://github.com/user-attachments/assets/e33f670b-6198-470e-b8c2-ddf6e8c9a4da" width="70"/></td>
     <td>
       <strong>Dhaka College</strong><br/>
       Higher Secondary Certificate (HSC), Science · GPA: <strong>5.00</strong> · Jul 2019 – Apr 2021<br/>
