@@ -4,7 +4,7 @@
 
 ### Android Developer · Flutter · Computer Vision Researcher (Aspiring)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mohammad-Zia](https://www.linkedin.com/in/zia002/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/Mohammad-Zia](https://www.linkedin.com/in/zia002/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zia002)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gmmzia002@gmail.com)
 
